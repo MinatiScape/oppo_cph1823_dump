@@ -1,0 +1,5 @@
+com.coloros.aftersalesservice
+com.coloros.focusmode
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.translate.engine
