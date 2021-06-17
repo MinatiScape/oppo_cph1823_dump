@@ -1,0 +1,14 @@
+
+<permissions>
+    <feature name="oppo.feature.18311" />
+    <feature name="oppo.eyeprotect.support" />
+    <!--<feature name="oppo.autolight.userotate.support" />-->
+    <!--<feature name="oppo.appautoresolution.support" />-->
+    <feature name="oppo.multibits.dimming.support" />
+    <feature name="oppo.autobrightctl.animation.support" />
+    <!--<feature name="oppo.aod.support" />-->
+    <!--<feature name="oppo.display.screen.underlightsensor.support" />-->
+    <!--<feature name="oppo.display.dcbacklight.support" />-->
+    <!--<feature name="oppo.high.brightness.support" />-->
+    <!--<feature name="oppo.hardware.fingerprint.optical.support" />-->
+</permissions>

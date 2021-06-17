@@ -1,0 +1,60 @@
+# build porp start
+ro.separate.soft=18313
+ro.product.authentication=0
+ro.product.hw=BD153
+ro.oppo.market.name=OPPO F9
+ro.vendor.product.device.oem=CPH1823
+ro.sys.reserve.integrate=false
+ro.build.product=CPH1823
+ro.vendor.product.oem=CPH1823
+
+# InitEnv
+
+# Build.java
+ro.build.id=QP1A.190711.020
+ro.build.display.id=CPH1823EX_11_F.18
+ro.product.manufacturer=OPPO
+ro.product.brand=OPPO
+ro.product.model=CPH1823
+ro.product.name=CPH1823
+ro.product.device=CPH1823
+ro.build.version.incremental=2021040000
+ro.build.version.release=10
+ro.build.version.base_os=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/1608620200:user/release-keys
+ro.build.fingerprint=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/2021040000:user/release-keys
+ro.odm.build.fingerprint=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/2021040000:user/release-keys
+ro.odm.build.version.incremental=2021040000
+ro.product.odm.brand=OPPO
+ro.product.odm.device=CPH1823
+ro.product.odm.manufacturer=OPPO
+ro.product.odm.model=CPH1823
+ro.product.odm.name=CPH1823
+ro.system.build.fingerprint=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/2021040000:user/release-keys
+ro.system.build.version.incremental=2021040000
+ro.product.system.brand=OPPO
+ro.product.system.device=CPH1823
+ro.product.system.manufacturer=OPPO
+ro.product.system.model=CPH1823
+ro.product.system.name=CPH1823
+ro.bootimage.build.fingerprint=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/2021040000:user/release-keys
+ro.bootimage.build.version.incremental=2021040000
+ro.product.bootimage.brand=OPPO
+ro.product.bootimage.device=CPH1823
+ro.product.bootimage.manufacturer=OPPO
+ro.product.bootimage.model=CPH1823
+ro.product.bootimage.name=CPH1823
+ro.vendor.build.fingerprint=OPPO/CPH1823/CPH1823:10/QP1A.190711.020/2021040000:user/release-keys
+ro.vendor.build.version.incremental=2021040000
+ro.product.vendor.brand=OPPO
+ro.product.vendor.device=CPH1823
+ro.product.vendor.manufacturer=OPPO
+ro.product.vendor.model=CPH1823
+ro.product.vendor.name=CPH1823
+
+# GMS
+ro.com.google.clientidbase=android-oppo
+
+# Mediatek
+ro.mediatek.version.release=CPH1823_11_F.18_210406
+ro.vendor.mediatek.version.release=CPH1823_11_F.18_210406
+setupwizard.feature.baseline_setupwizard_enabled = true
